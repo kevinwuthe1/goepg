@@ -3,7 +3,11 @@
 # Something You should Know
 本人非计算机专业出生，Python也只是利用有限的休息时间自学，所以这个项目也可以说是用来试手的，因此可能会出现一些bug。不过在以后的版本中会不断来修复和增加功能  
 需要pandas模块支持  
-如果有什么好的建议，欢迎来提交issues。
+如果有什么好的建议，欢迎来提交issues。  
+
+## 频道对应的id
+1  CartoonNetwork卡通频道  
+2  Starworld卫视合家欢
 
 更新历史：
 
